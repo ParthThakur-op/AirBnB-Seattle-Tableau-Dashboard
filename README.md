@@ -36,5 +36,5 @@ The Tableau dashboard contains 5 visualisation sheets and 1 interactive dashboar
 - `AirBnB_full_Project.twbx` — Tableau workbook with data and dashboard
 - `dashboard_screenshot.png` — Dashboard preview image
 
-- ![Dashboard Screenshot](<img width="1827" height="812" alt="Screenshot (263)" src="https://github.com/user-attachments/assets/fcf6e146-feae-416b-be7d-644010e1c67b" />
-)
+<img width="1827" height="812" alt="Screenshot (263)" src="https://github.com/user-attachments/assets/857ed53a-d7a9-4f7e-a3a8-2d9039c76a32" />
+
