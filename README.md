@@ -1,5 +1,4 @@
 # AirBnB-Seattle-Tableau-Dashboard
-# Air-BnB-Seattle-Tableau-Dashboard
 
 [You can find the Air BnB project file here](https://drive.google.com/file/d/1zZOBnVZNyOF3s2y_KT_KT6eSw2mCkngM/view?usp=sharing)
 
@@ -36,3 +35,5 @@ The Tableau dashboard contains 5 visualisation sheets and 1 interactive dashboar
 
 - `AirBnB_full_Project.twbx` — Tableau workbook with data and dashboard
 - `dashboard_screenshot.png` — Dashboard preview image
+
+- ![Dashboard Screenshot](./Screenshot%20(263).png)
